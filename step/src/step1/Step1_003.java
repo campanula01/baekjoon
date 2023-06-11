@@ -9,7 +9,7 @@ package step1;
 
 import java.util.*;
 
-public class Step1_3 {
+public class Step1_003 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		int A=input.nextInt();

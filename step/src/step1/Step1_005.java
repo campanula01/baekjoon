@@ -10,7 +10,7 @@ package step1;
 
 import java.util.*;
 
-public class Step1_5 {
+public class Step1_005 {
 	public static void main(String args[]) {
 		Scanner input = new Scanner(System.in);
 		

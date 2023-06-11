@@ -10,7 +10,7 @@ package step1;
 첫째 줄에 A×B를 출력한다.*/
 import java.util.*;
 
-public class Step1_4 {
+public class Step1_004 {
 	public static void main(String args[]) {
 		Scanner input = new Scanner(System.in);
 		

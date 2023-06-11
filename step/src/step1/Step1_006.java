@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 출력
 첫째 줄에 A+B, 둘째 줄에 A-B, 셋째 줄에 A*B, 넷째 줄에 A/B, 다섯째 줄에 A%B를 출력한다.*/
-public class Step1_6 {
+public class Step1_006 {
 	public static void main(String args[]) {
 		Scanner input = new Scanner(System.in);
 		
