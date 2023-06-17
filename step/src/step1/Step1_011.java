@@ -9,7 +9,7 @@ package step1;
 출력
 A+B+C의 값을 출력한다.*/
 import java.util.Scanner;
-public class Step_011 {
+public class Step1_011 {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		Long A=sc.nextLong();
