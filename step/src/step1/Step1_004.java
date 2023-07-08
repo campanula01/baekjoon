@@ -18,6 +18,7 @@ public class Step1_004 {
 		int B=input.nextInt();
 		
 		System.out.print(A*B);
+		input.close();
 	}
 
 }

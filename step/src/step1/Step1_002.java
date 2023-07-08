@@ -9,6 +9,7 @@ public class Step1_002 {
 		int B=input.nextInt();
 		
 		System.out.print(A+B);
+		input.close();
 		
 	}
 
