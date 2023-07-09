@@ -21,6 +21,7 @@ public class Step1_006 {
 		System.out.println(A*B);
 		System.out.println(A/B);
 		System.out.println(A%B);
+		input.close();
 	}
 
 }

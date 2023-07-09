@@ -15,6 +15,7 @@ public class Step1_007 {
 		String id= input.next();
 		
 		System.out.println(id+"??!");
+		input.close();
 	}
 
 }

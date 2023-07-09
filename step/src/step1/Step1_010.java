@@ -28,6 +28,7 @@ public class Step1_010 {
 		System.out.println(sum2);
 		System.out.println(sum3);
 		System.out.println(sum1+sum2*10+sum3*100);
+		sc.close();
 	}
 
 

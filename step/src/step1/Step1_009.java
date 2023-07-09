@@ -22,6 +22,7 @@ public class Step1_009 {
 		System.out.println(((A%C)+(B%C))%C);
 		System.out.println((A*B)%C);
 		System.out.println(((A%C)*(B%C))%C);
+		sc.close();
 	}
 
 }
